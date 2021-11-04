@@ -622,7 +622,7 @@ int main(){
 			traAf();
 		}
 		else if(a==0 && b == 1 && c == 1 && d == 1){
-			prinf("THANK YOU HAVE A NICE DAY!! ")
+			printf("THANK YOU HAVE A NICE DAY!! ");
 			exit(0);
 		}
 		else if(a==1 && b == 0 && c == 0 && d == 0){
